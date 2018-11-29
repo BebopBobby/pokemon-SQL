@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75ad7b3c-f591-4c9f-93f0-4c3481e6e52c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-OOP-WuTangFinancial-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-OOP-WuTangFinancial-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-OOP-WuTangFinancial-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-OOP-WuTangFinancial-master/src/main/java/DELETEME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-OOP-WuTangFinancial-master/src/test/java/DELETEME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/java/io/zipcoder/crudapp/CRUDApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/java/io/zipcoder/crudapp/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/java/io/zipcoder/crudapp/controllers/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/java/io/zipcoder/crudapp/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/resources/application-h2.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/resources/schema-h2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/main/resources/static/Requests.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLab-Spring-PersonController.CRUD-master/src/test/java/io/zipcoder/crudapp/CRUDApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/src/main/java/com/zipcodewilmington/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/src/main/java/com/zipcodewilmington/PersonHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MesoLabs-Arrays-PersonDetails-master/src/test/java/com/zipcodewilmington/PersonHandlerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CR-MicroLabs-ExceptionsAndLogging-master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Computer-classwork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBrainsCourse/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBrainsCourse/src/main/java/CourseApiApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD-AnimalFactory-master" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/anonymous-classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/App$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/App$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/App$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/Machine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../anonymous-classes/target/classes/Plant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/arraylist-in-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylist-in-java/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/calcexception.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/src/main/java/Calculator/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/src/main/java/Calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calcexception/target/classes/Calculator/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/collections-lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/src/main/java/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/src/main/java/flyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collections-lecture/src/main/java/notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comparable-classwork" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/src/main/java/com/bobby/cryptodemo/CryptoDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/src/main/java/com/bobby/cryptodemo/crypto/Crypto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/src/main/java/com/bobby/cryptodemo/crypto/ScheduledMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/src/main/java/com/bobby/cryptodemo/crypto/Ticker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../crypto-demo/src/test/java/com/bobby/cryptodemo/CryptoDemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/src/main/java/com/bobby/demoapp/DemoAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/src/main/java/hello/Quote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/src/main/java/hello/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo-app/src/test/java/com/bobby/demoapp/DemoAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencyInjection/dependencyInjection" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/generics-and-wildcards.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/target/classes/Camera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics-and-wildcards/target/classes/Machine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitignoreprac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradedstudents" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/handling-exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/src/main/java/demo/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/src/main/java/demo2/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/src/main/java/demo3/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/target/classes/demo/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/target/classes/demo2/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../handling-exceptions/target/classes/demo3/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/hashmappresentation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/src/main/java/hashmaps/hmap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashmappresentation/target/classes/hashmaps/hmap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../initializationlab1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface-lecture/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface-lecture/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface-lecture/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface-lecture/interface-lecture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface-lecture/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../interface-lecture/src/main/java/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../js 101" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-lists/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-lists/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-lists/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-lists/linked-lists.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../linked-lists/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/multiple-exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../multiple-exceptions/target/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectpresentation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ooj/ooj.java.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peoplecomp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/persontest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/src/main/java/bluh/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/src/test/java/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/target/classes/bluh/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../persontest/target/test-classes/PersonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/phonebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/src/main/java/phonebookpack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/src/main/java/phonebookpack/PhoneBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/src/test/java/PhoneBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/target/classes/phonebookpack/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/target/classes/phonebookpack/PhoneBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/target/test-classes/PhoneBookTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../phonebook/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/reading-files-with-filereader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-files-with-filereader/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/reading-text-files.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reading-text-files/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/runtime-exceptions-vs-checked-exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../runtime-exceptions-vs-checked-exceptions/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shapes/shapes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/src/main/java/com/bobby/springartistapi/SpringArtistApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/src/main/java/com/bobby/springartistapi/controllers/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/src/main/java/com/bobby/springartistapi/domain/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/src/main/java/com/bobby/springartistapi/services/ArtistService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-artist-api/src/test/java/com/bobby/springartistapi/SpringArtistApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/src/main/java/com/bobby/springfriendsapi/SpringFriendsApiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/src/main/java/com/bobby/springfriendsapi/controller/FriendController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/src/main/java/com/bobby/springfriendsapi/domain/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/src/main/java/com/bobby/springfriendsapi/services/FriendServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-friends-api/src/test/java/com/bobby/springfriendsapi/SpringFriendsApiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-jokes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-tasks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/src/main/java/com/bobby/springweb/SpringWebApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/src/main/java/com/bobby/springweb/hello/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/src/main/java/com/bobby/springweb/hello/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-web/src/test/java/com/bobby/springweb/SpringWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testexample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/target/classes/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/target/classes/Camera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/target/classes/Machine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../upcasting-downcasting/upcasting-downcasting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/component/WeatherReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/pojos/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/pojos/Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/pojos/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/pojos/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/pojos/Results.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../weather-api/src/main/java/com/bobby/weatherapi/task/ScheduledMethod.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1913894014">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="2" />
+          <entry key="sql" value="7" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="SQL" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="sql" value="57" />
+          <entry key="txt" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="SQL" value="57" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SECOND">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pokemon_pokemons.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-end-line="656" selection-end-column="102" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pokemon_trainers.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="592">
+              <caret line="7602" column="82" selection-start-line="7602" selection-start-column="82" selection-end-line="7602" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pokemon_types.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="18" column="59" selection-end-line="18" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queries.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pokemon_pokemon_trainer.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38214">
+              <caret line="1737" column="49" selection-start-line="1737" selection-start-column="49" selection-end-line="1737" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/schema-h2.sql" />
+        <option value="$PROJECT_DIR$/pokemon_trainers.sql" />
+        <option value="$PROJECT_DIR$/pokemon_pokemons.sql" />
+        <option value="$PROJECT_DIR$/pokemon_pokemon_trainer.sql" />
+        <option value="$PROJECT_DIR$/queries.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PokemonSqlLab-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PokemonSqlLab-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543504877497" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75ad7b3c-f591-4c9f-93f0-4c3481e6e52c" name="Default Changelist" comment="" />
+      <created>1543500835403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543500835403</updated>
+      <workItem from="1543500838804" duration="4044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4044000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" weight="0.3295302" />
+      <window_info anchor="right" id="Maven Projects" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pokemon_types.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" column="59" selection-end-line="18" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokemon_trainers.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="592">
+          <caret line="7602" column="82" selection-start-line="7602" selection-start-column="82" selection-end-line="7602" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokemon_pokemons.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-end-line="656" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema-h2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SECOND">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queries.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pokemon_pokemon_trainer.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38214">
+          <caret line="1737" column="49" selection-start-line="1737" selection-start-column="49" selection-end-line="1737" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
